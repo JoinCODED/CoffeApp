@@ -8,6 +8,7 @@ import carribu2 from '../../images/carribu.jpg';
 var list = [
     {
         name: 'StarBucks',
+        location: 'Salmiya',
         distance: '5 kilometers',
         image: starbucks,
         background: starbucks2,
@@ -16,6 +17,7 @@ var list = [
     },
     {
         name: 'Costa',
+        location: 'Salmiya',
         distance: '2.1 kilometers',
         image: costa,
         background: costa2,
@@ -24,6 +26,7 @@ var list = [
     },
     {
         name: 'Caribu',
+        location: 'Salmiya',
         distance: '500 meters',
         image: carribu,
         background: carribu2,

@@ -5,8 +5,6 @@ import {Spinner, Container} from 'native-base';
 import Loading from './Loading';
 import { NativeRouter, Route, Link, Redirect } from 'react-router-native'
 import HomePage from './HomePage';
-import CoffeMap from './CoffeMap';
-import { MapView } from 'expo';
 
 export default class MyApp extends React.Component {
     state = { 
